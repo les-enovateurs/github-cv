@@ -4,5 +4,5 @@
 * Renommez le projet en <votre pseudo>.github.io
 * Faites un Git clone pour télécharger le projet sur votre PC
 ```bash
-git clone https://github.com/<nom_utilisateur>/<votre pseudo>.github.io
+git clone https://github.com/<nom_utilisateur>/<nom utilisateur>.github.io
 ```
