@@ -50,3 +50,7 @@ git push
 layout: default
 ---
 ```
+
+## Article de blog
+Format du fichier : 
+```YEAR-MONTH-DAY-title.md```
