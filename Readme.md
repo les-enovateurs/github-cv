@@ -9,16 +9,29 @@ git clone https://github.com/<nom_utilisateur>/<nom utilisateur>.github.io
 ```
 
 * Accédez au dossier du projet
+```bash
 cd <nom utilisateur>.github.io
+```
 
 * Installation de Jekyll & Bundler
+```bash
 gem install jekyll bundler
+```
 
 * Installation des gems/librairies utiles pour le projet
+```bash
 bundle install
+```
+
+* Si environnement Windows
+```bash
+gem install wdm
+```
 
 * Lancement du serveur Jekyll
+```bash
 bundle exec jekyll serve
+```
 
 ## Mettre en production les modifications
   * Préparer l'envoi du code avec un message
