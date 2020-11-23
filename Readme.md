@@ -19,3 +19,13 @@ bundle install
 
 * Lancement du serveur Jekyll
 bundle exec jekyll serve
+
+## Mettre en production les modifications
+  * Préparer l'envoi du code avec un message
+  ```bash
+git commit -am "<message>"
+  ```
+  * Envoyer le code en production
+  ```bash
+git push  
+  ```
