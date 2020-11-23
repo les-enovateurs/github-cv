@@ -42,3 +42,9 @@ git commit -am "<message>"
   ```bash
 git push  
   ```
+  
+## Entête de nouvelle page
+
+---
+layout: default
+---
