@@ -45,12 +45,18 @@ git push
   
 ## Entête de nouvelle page
 
-```bash
+```
 ---
 layout: default
 ---
 ```
 
 ## Article de blog
-Format du fichier : 
+### Format du fichier : 
 ```YEAR-MONTH-DAY-title.md```
+### Entête du fichier
+```
+---
+title: "The title of my blog post"
+---
+```
