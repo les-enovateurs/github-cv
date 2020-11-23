@@ -45,6 +45,8 @@ git push
   
 ## Entête de nouvelle page
 
+```bash
 ---
 layout: default
 ---
+```
